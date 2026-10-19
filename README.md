@@ -2382,6 +2382,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Miraqo](https://miraqo.io) `https://app.miraqo.io/mcp`
   [![Miraqo MCP connector](https://glama.ai/mcp/connectors/io.github.deleteweb/seo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.deleteweb/seo)
   🔐 - Rankings, audits, backlinks, Search Console and AI visibility for your Miraqo SEO projects.
+- [Nitrosend](https://nitrosend.com) `https://api.nitrosend.com/mcp`
+  [![Nitrosend MCP connector](https://glama.ai/mcp/connectors/com.nitrosend/nitrosend/badges/score.svg)](https://glama.ai/mcp/connectors/com.nitrosend/nitrosend)
+  🔐 - Draft campaigns and flows, manage audiences, send tests, and inspect results in your Nitrosend account.
 - [nowyourlink](https://nowyourlink.com) `https://nowyourlink.com/mcp`
   [![nowyourlink MCP connector](https://glama.ai/mcp/connectors/io.github.ArneFfm/nowyourlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ArneFfm/nowyourlink)
   🔓 - Read the current daily homepage Spotlight ad and browse the archive of settled auction days.
